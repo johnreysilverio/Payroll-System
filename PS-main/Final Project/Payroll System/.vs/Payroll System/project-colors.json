@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d521da9-415b-4e12-9f9e-3f2d8ecaf2d0": {
+      "ProjectGuid": "6d521da9-415b-4e12-9f9e-3f2d8ecaf2d0",
+      "DisplayName": "Payroll System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

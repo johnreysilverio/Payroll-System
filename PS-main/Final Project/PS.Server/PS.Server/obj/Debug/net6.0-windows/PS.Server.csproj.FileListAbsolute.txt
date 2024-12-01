@@ -1,0 +1,58 @@
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.exe
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.deps.json
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.runtimeconfig.json
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.dll
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.LoginForm.resources
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.ServerForm.resources
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.GenerateResource.cache
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfoInputs.cache
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfo.cs
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CopyComplete
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.dll
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\refint\PS.Server.dll
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.genruntimeconfig.cache
+C:\Users\silve\OneDrive\Desktop\PS.Server\PS.Server\obj\Debug\net6.0-windows\ref\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.exe
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.deps.json
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.LoginForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.ServerForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.GenerateResource.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\refint\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\ref\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.exe
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.deps.json
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\bin\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.LoginForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.ServerForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.GenerateResource.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\refint\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.pdb
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\ref\PS.Server.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\PS.Server\PS.Server\obj\Debug\net6.0-windows\PS.Server.Properties.Resources.resources

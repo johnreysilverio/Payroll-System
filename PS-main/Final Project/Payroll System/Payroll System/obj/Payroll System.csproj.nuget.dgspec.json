@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\laure\\OneDrive\\Desktop\\IM101\\Final Project\\Payroll System\\Payroll System\\Payroll System.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laure\\OneDrive\\Desktop\\IM101\\Final Project\\Payroll System\\Payroll System\\Payroll System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\IM101\\Final Project\\Payroll System\\Payroll System\\Payroll System.csproj",
+        "projectName": "Payroll System",
+        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\IM101\\Final Project\\Payroll System\\Payroll System\\Payroll System.csproj",
+        "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\IM101\\Final Project\\Payroll System\\Payroll System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

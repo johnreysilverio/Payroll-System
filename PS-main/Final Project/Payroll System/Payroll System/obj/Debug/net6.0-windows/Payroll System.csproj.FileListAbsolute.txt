@@ -1,0 +1,235 @@
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.exe
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.deps.json
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.runtimeconfig.json
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\MySql.Data.DLL
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.LoginForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.GenerateResource.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfoInputs.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfo.cs
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CopyComplete
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\refint\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.genruntimeconfig.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.Properties.Resources.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.DTRForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.PaySlipForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.MenuForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HomeForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.exe
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.deps.json
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.DTRForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HomeForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.LoginForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.MenuForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.PaySlipForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.Properties.Resources.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.GenerateResource.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.genruntimeconfig.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.exe
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.deps.json
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.runtimeconfig.json
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.AssemblyReference.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.DTRForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditAccountForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HomeForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.LoginForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.MenuForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.PaySlipForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.Properties.Resources.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.GenerateResource.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfoInputs.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfo.cs
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CopyComplete
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\refint\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.genruntimeconfig.cache
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\GitHub\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.exe
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.deps.json
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.DTRForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditAccountForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HomeForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.LoginForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.MenuForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.PaySlipForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.Properties.Resources.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsForm.resources
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.GenerateResource.cache
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Desktop\repos\PS\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditPasswordForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditPasswordForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\refint\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountRegisterForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountEditForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountRegisterForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditPasswordForm.resources
+C:\Users\silve\OneDrive\Desktop\SchoolProjects\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountEditForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.exe
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.deps.json
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountRegisterForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.DTRForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.EditPasswordForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HomeForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.LoginForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountEditForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ManageAccountForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.MenuForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.PaySlipForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.Properties.Resources.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsForm.resources
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.GenerateResource.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\refint\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.pdb
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll System.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Desktop\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\ref\Payroll System.dll
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsDTRForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsPayslipForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.AccountDetailsShowForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ViewPayslipForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.HolidaysForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.ReportDTRForm.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.TicketsDTRView.resources
+C:\Users\laure\OneDrive\Desktop\IM101\Final Project\Payroll System\Payroll System\obj\Debug\net6.0-windows\Payroll_System.InsuraceForm.resources

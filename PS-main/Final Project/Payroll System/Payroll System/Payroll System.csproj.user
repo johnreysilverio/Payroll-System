@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountDetailsShowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountRegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DTRForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HolidaysForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsuraceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageAccountEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaySlipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportDTRForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketsDTRForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketsDTRView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketsPayslipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewPayslipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
